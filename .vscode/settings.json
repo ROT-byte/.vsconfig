@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "Cobalt2",
+  "code-runner.runInTerminal": true,
+  "editor.fontFamily": "'Cascadia Code'",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "bold",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "vscode-icons",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.intelliSenseEngineFallback": "enabled",
+  "C_Cpp.default.compilerPath": "/usr/bin/clang",
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp"
+  } // Light
+}
